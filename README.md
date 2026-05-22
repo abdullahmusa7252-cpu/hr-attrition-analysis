@@ -90,36 +90,6 @@ The Groq API (Llama 3.3 70B) analyzed the findings and provided:
 
 ---
 
-## Project Structure
-HR_Attrition_Complete/
-├── data/
-│ └── hr_attrition.csv # Dataset (1,470 rows, 35 columns)
-├── scripts/
-│ ├── verify.py # Data validation
-│ ├── analysis.py # Key metrics calculation
-│ ├── charts.py # Generate all visualizations
-│ ├── model.py # Train and evaluate models
-│ ├── insights.py # Groq AI business recommendations
-│ └── business_insights.py # Cost of attrition calculation
-├── images/
-│ ├── attrition_by_department.png
-│ ├── attrition_by_overtime.png
-│ ├── attrition_by_jobrole.png
-│ ├── attrition_by_agegroup.png
-│ ├── monthly_income_boxplot.png
-│ └── feature_importance.png
-├── outputs/
-│ └── insights.txt # Groq AI full output
-├── tests/ # Verification scripts
-│ ├── test_data_quality.py
-│ ├── test_chart_numbers.py
-│ ├── test_model_accuracy.py
-│ ├── test_dashboard_values.py
-│ └── run_all_tests.py
-└── README.md
-
----
-
 ## Tools Used
 
 | Tool | Purpose |
