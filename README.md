@@ -8,7 +8,7 @@ Analyzed 1,470 employees to identify key drivers of attrition using machine lear
 
 ## Live Dashboard
 
-**[View Interactive Dashboard](https://your-lovable-link-here.lovable.app/)**  
+**[View Interactive Dashboard]([https://your-lovable-link-here.lovable.app/](https://id-preview--d3f8113f-792b-4982-b659-cbc588be8870.lovable.app/))**  
 *Dark theme dashboard with KPIs, charts, feature importance, financial impact analysis, and AI-generated insights.*
 
 ---
