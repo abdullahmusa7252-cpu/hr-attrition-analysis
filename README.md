@@ -1,6 +1,6 @@
 # HR Employee Attrition Analysis
 
-**Author:** Abdullah Musa
+**Author:** Abdullah 
 
 ## Overview
 
