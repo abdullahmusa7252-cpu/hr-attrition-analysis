@@ -91,7 +91,7 @@ Two classification models were built using `scikit-learn` to predict employee ch
 ## 👤 Author
 
 **Abdullah Musa**
-**Abdullah(Nickname)**
+
 
 * Aspiring Software & Data Engineer
 * [GitHub Profile](https://github.com)
