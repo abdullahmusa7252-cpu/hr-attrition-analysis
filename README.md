@@ -12,7 +12,7 @@
 ---
 
 ## 🎯 Executive Summary
-Employee turnover is a silent killer of company revenue. This project analyzes **1,470 employee records** to pinpoint *why* people leave, *who* is most at risk, and what it costs the business. 
+Employee turnover is a silent killer of company revenue. This project analyzes **1,470 employee records** to pinpoint *why* people leave, *who* is most at risk, and what it costs the business.
 
 * **Total Annual Cost of Attrition:** 💰 **$20.4 Million** ($13.6M in salary loss + $6.8M in replacement costs).
 * **Overall Turnover Rate:** 16.1% (237 employees left).
@@ -37,7 +37,7 @@ Two classification models were built using `scikit-learn` to predict employee ch
 * **Logistic Regression:** 87.1% Accuracy | 8% Recall (Leavers)
 * **Random Forest:** 87.8% Accuracy | 13% Recall (Leavers)
 
-> **⚠️ Critical Insight / Model Limitation:** 
+> **⚠️ Critical Insight / Model Limitation:**
 > Both models are exceptional at predicting who *stays*, but poor at catching who *leaves* (only capturing 13% of actual leavers). This proves that financial metrics alone aren't enough—predicting real-world human behavior requires qualitative data like employee engagement, management quality, and burnout metrics.
 
 ### Top 5 Attrition Predictors (Random Forest Feature Importance)
@@ -69,19 +69,33 @@ Two classification models were built using `scikit-learn` to predict employee ch
 ## 🚀 How to Run Locally
 
 1. Clone the repository:
+
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone https://github.com/your-username/your-repo-name.git
+   ```
+
 2. Install dependencies:
+
    ```bash
    pip install -r requirements.txt
+   ```
+
 3. Run the validation test suite:
+
    ```bash
    python scripts/run_all_tests.py
+   ```
 
-#👤 Author
+---
 
-Abdullah Musa
+## 👤 Author
 
-    Aspiring Software & Data Engineer
+**Abdullah Musa**
+**Abdullah(Nickname)**
 
-    GitHub Profile
+* Aspiring Software & Data Engineer
+* [GitHub Profile](https://github.com)
+
+---
+
+*License: MIT*
