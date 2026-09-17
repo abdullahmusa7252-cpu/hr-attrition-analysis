@@ -90,7 +90,7 @@ Two classification models were built using `scikit-learn` to predict employee ch
 
 ## 👤 Author
 
-**Abdullah Musa**
+**Abdullah**
 
 
 * Aspiring Software & Data Engineer
